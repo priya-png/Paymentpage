@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Payment Application</string>
+    <string-array name="timespan">
+    <item>Monthly</item>
+    <item>Quarterly</item>
+    <item>Half Yearly</item>
+    <item>Annualy</item>
+</string-array>
+
+    </resources>
